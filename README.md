@@ -1,4 +1,4 @@
-<div><a href="http://www.linkedin.com/in/mohammed-omair"><img src="LinkedIn.svg"></a><a href=><img src="Resume.svg"></a></div>
+<div><a href="http://www.linkedin.com/in/mohammed-omair"><img src="LinkedIn.svg"></a></div> <div><a href=><img src="Resume.svg"></a></div>
 <!--
 **Mohammed-Omair/Mohammed-Omair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
