@@ -1,6 +1,4 @@
-<div><a href="http://www.linkedin.com/in/mohammed-omair"><img src="LinkedIn.svg"></a>
-<a href=><img src="Resume.svg"></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=435&lines=Software+Engineer;DevOps;Cloud+Architect)](https://git.io/typing-svg)
 <!--
 **Mohammed-Omair/Mohammed-Omair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
