@@ -36,9 +36,9 @@ I am a passionate software engineer with a strong focus on cloud-native technolo
 
 <p align="center">
   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Omair&theme=github_dark" /></a>
+    <img src="https://streak-stats.demolab.com?user=Mohammed-Omair&theme=github-dark" /></a>
   <a>
-    <img src="https://streak-stats.demolab.com?user=Mohammed-Omair&theme=github-dark" /></a>  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Omair&theme=github_dark" /></a>  
 </p>
 
 
