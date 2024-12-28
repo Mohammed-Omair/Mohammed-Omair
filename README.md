@@ -18,7 +18,7 @@
 
 ---
 
-I am a passionate software engineer with a strong focus on cloud-native technologies, DevOps, and infrastructure automation. I enjoy building scalable and efficient solutions using Kubernetes, Docker, and Terraform while continuously learning and adapting to emerging tools and practices. With certifications like CKA and AWS Solutions Architect, I have hands-on experience in managing cloud infrastructure and developing multi-language applications. Beyond coding, I’m enthusiastic about sharing knowledge, contributing to open-source projects, and fostering communities that thrive on innovation and collaboration. Let’s create something impactful together!
+I am a passionate software engineer with a strong focus on cloud-native technologies, DevOps, and infrastructure automation. I enjoy building scalable and efficient solutions using Kubernetes, Docker, and Terraform while continuously learning and adapting to emerging tools and practices. Beyond coding, I’m enthusiastic about sharing knowledge, contributing to open-source projects, and fostering communities that thrive on innovation and collaboration. Let’s create something impactful together!
 
 ---
 
