@@ -9,7 +9,7 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://www.linkedin.com/in/mohammed-omair/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-omair/">
+  <a href="https://mohdomair.netlify.app/">
     <img src="https://img.shields.io/badge/website-FFD300?style=for-the-badge" /></a>  
   <a href="https://mohdomair.netlify.app/static/media/Omair_Resume.515bf7e6bf879176b11c.pdf">
     <img src="https://img.shields.io/badge/Resume-%23bd2818?style=for-the-badge" /></a>  
